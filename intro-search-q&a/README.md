@@ -1,2 +1,1 @@
-### Basic introduction on how to build a simple seach engine and a  Q & A system
-
+This folder contains materials and notes on a building simple search engine and a question-answering system. I explore the application of Large Language Models (LLMs) for text processing, utilizing cosine similarity and embeddings for effective text search. I also implement Elasticsearch for efficient document indexing and retrieval. Additionally, Retrieval-Augmented Generation (RAG), a technique that combines retrieval methods with generative models to create sophisticated question-answering systems.
