@@ -11,6 +11,8 @@ elasticsearch = "*"
 requests = "*"
 pandas = "*"
 scikit-learn = "*"
+transformers = "*"
+torch = "*"
 
 [dev-packages]
 
