@@ -13,6 +13,7 @@ pandas = "*"
 scikit-learn = "*"
 transformers = "*"
 torch = "*"
+tiktoken = "*"
 
 [dev-packages]
 
