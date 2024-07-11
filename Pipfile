@@ -14,6 +14,7 @@ scikit-learn = "*"
 transformers = "*"
 torch = "*"
 tiktoken = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
