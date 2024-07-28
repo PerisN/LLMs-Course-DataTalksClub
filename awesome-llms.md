@@ -23,7 +23,7 @@ There are other services that we can use
 
 ## Local LLMs on CPUs
 
-These services help run LLMs locally, also without GPUs
+These services can help run LLMs locally, also without GPUs
 
 - [ollama](https://github.com/ollama/ollama)
 - [Jan.AI](https://jan.ai/)
