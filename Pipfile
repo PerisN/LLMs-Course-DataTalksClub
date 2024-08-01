@@ -5,16 +5,16 @@ name = "pypi"
 
 [packages]
 tqdm = "*"
-notebook = "==7.1.2"
+notebook = "*"
 openai = "*"
 elasticsearch = "*"
 requests = "*"
 pandas = "*"
 scikit-learn = "*"
 transformers = "*"
-torch = "*"
 tiktoken = "*"
 sentence-transformers = "*"
+torch = "*"
 
 [dev-packages]
 
