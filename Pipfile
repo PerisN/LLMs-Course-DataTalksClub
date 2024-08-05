@@ -14,7 +14,7 @@ scikit-learn = "*"
 transformers = "*"
 tiktoken = "*"
 sentence-transformers = "*"
-torch = "*"
+torch = "2.1.0"
 
 [dev-packages]
 
