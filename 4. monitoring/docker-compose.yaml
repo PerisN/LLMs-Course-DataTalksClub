@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.4.3
@@ -22,9 +20,6 @@ services:
       - ollama:/root/.ollama
     ports:
       - "11434:11434"
-    environment:
-      - MODEL_NAME=phi3  # Set the model name to be pulled
-    command: ["/bin/sh", "-c", "ollama pull $MODEL_NAME && ollama run"]
     deploy:
       resources:
         limits:
